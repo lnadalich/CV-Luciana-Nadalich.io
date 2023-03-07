@@ -1,7 +1,7 @@
 
 Estimado, recién me doy cuenta que cuando subí los archivos de JS y de CSS a GitHub estaban dentro de una carpeta,
-entonces la dirección en el index de HTML quedaba mal y no se iba a poder ejecutar correctamente. Agregué la carpeta para 
-su correcto funcionamiento. 
+entonces la dirección en el index de HTML quedaba mal y no se iba a poder ejecutar correctamente. Agregué las carpetas para 
+que coincidan con los paths indicados para su correcto funcionamiento. 
 Espero sepa comprender.
 Cordialmente,
 
